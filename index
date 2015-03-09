@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Tu eres espacial</title>
+	<link href='http://fonts.googleapis.com/css?family=Lato:100,300,400,700,900,100italic,300italic,400italic,700italic,900italic' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" href="css/style.css" type="text/css"/>
+</head>
+<body>
+
+	<header>
+		<img  class="logo" src="img/logo.svg" style="float:left; width:120px;">
+		<div>
+			<nav class="menu">
+				<ul>
+					<li><a href="#videos">Vídeo-Galaxia</a></li>
+					<li><a href="#project">La Misión</a></li>
+					<li><a href="#contacto">Contacta</a></li>
+				</ul>
+			</nav>
+			<div class="redessociales">
+				<ul>
+					<li><a href="#participar">Login</a></li>
+					<li><button class="boton_participar"><a href="#participar">Registrarse</a></button></li>
+					<li><a href="https://www.facebook.com/tueresespacial" target="blank"><img src="img/facebook.svg" alt="facebook" style="width:27px; color:#ffffff;"></a></li>
+					<li><a href="https://www.youtube.com/channel/UCCTeSHkH-3QrmQOXXKfLeLA" target="blank"><img src="img/youtube.svg" alt="youtube" style="width:27px;"></a></li>
+					<li><a href="mailto:tueresespacial@gmail.com" target="blank"><img src="img/mail.svg" alt="mail" style="width:27px;"></a></li>
+
+				</ul>
+			</div>
+		</div>
+	</header>
+
+	<section class="home">
+		<h1> ¿Eres espacial?</h1>
+		<p>El primer concurso online basado en un crowdfunding, en el que seas quién seas, podrás cumplir tu sueño de ser un astronauta y... <span>¡VIAJAR AL ESPACIO GRATIS!</span></p>
+		<button class="boton_videos"><a href="#videos">Ver vídeos</a></button>
+		<button class="boton_participar"><a href="#participar">Acepta el desafío</a></button>
+	</section>
+	<asection class="explicacion">
+		<h2><a name="participar">¿Que eres capaz de hacer para ir al espacio?</a></h2>
+		<p class="subtitle">Si quieres vivir una experiencia única y alucinante no te lo pienses más. Sigue estos sencillos pasos y forma parte de esta extraordinaria aventura.</p>
+		<div class="paso_uno">
+			<img src="img/1.svg">
+			<h3>Prepara tu obra maestra</h3>
+			<p>Graba un video de unos 30 segundos demostrando que eres capaz de hacer para ir al espacio. La única condición es que lleves puesto un casco o  sucedáneo en la cabeza.</p>
+		</div>
+		<section class="paso_dos">
+			<img src="img/2.svg">
+			<p>Sube tu video a youtube y mándanos el link a nuestra dirección: <a href="mailto:tueresespacial@gmail.com">tueresespacial@gmail.com</a> Automáticamente lo publicaremos en nuestra plataforma.</p>
+		</section>
+		<section class="paso_tres">
+			<img src="img/3.svg" >
+			<p>Consigue que tu vídeo quede entre los tres más votados de nuestra galería y tendrás una plaza en la nave XXX Conoceremos a los ganadores el próximo 1 de Septiembre!</p>
+		</section>
+		<p class="how"><a name="videos"><a href="https://support.google.com/youtube/answer/57407?hl=es" target="blank">¿Cómo subir un vídeo a youtube <br>desde un smartphone?</a></a></p>
+		
+	</article>
+
+	<article class="videos">
+		<h2><a name="videos">Últimos vídeos</a></h2>
+		<p class="subtitle2">Los videos más votados ganarán un billete de ida al espacio.</p>
+		<section class="user1">
+			<iframe width="320" height="180" src="http://www.youtube.com/embed/-acmjJb8f78" frameborder="0" allowfullscreen></iframe>
+			<div class="datos">
+				<h3>El niño vader</h3>
+				<p>Ramon Castro Sanromán</p>
+				<p class="votos">70 Votos</p>
+				<button class="boton_rosa2">Votar vídeo ♥ </button>
+			</div>
+		</section>
+		<section class="user2">
+			<iframe width="320" height="180" src="http://www.youtube.com/embed/KJ60hhQaNFo" frameborder="0" allowfullscreen></iframe>
+			<div class="datos">
+				<h3>Gisela Soñadora</h3>
+				<p>María Cañadas Freud</p>
+				<p class="votos">95 Votos</p>
+				<button class="boton_rosa2">Votar vídeo ♥ </button>
+			</div>
+		</section>
+		<section class="user3">
+			<iframe width="320" height="180" src="http://www.youtube.com/embed/1z07x-TVDLU" frameborder="0" allowfullscreen></iframe>
+			<div class="datos">
+				<h3>El Valenciano loco</h3>
+				<p>Dani Gómez Castillo</p>
+				<p class="votos">110 Votos</p>
+				<button class="boton_rosa2">Votar vídeo ♥ </button>
+			</div>
+		</section>
+		<a href="img/ranking.pdf" target="blank"><button class="boton_blanco">Ver Ranking de votos</button></a>
+	</article>
+
+	<article class="donacion">
+		
+		<section class="cohete">
+			<h2>¿Alguna vez te has atrevido a soñar?</h2>
+			<p>Muchos soñadores como tú necesitan tu ayuda. Entre todos, !Hagamos este sueño posible!</p>
+		</section>	
+
+		<section class="project">
+			<h2><a name="project">Tu eres espacial. Democratizamos el espacio.</a></h2>
+			<p>Tu eres Espacial es una concurso online que nace de la ilusión y la creatividad de cuatro diseñadores gráficos que, a través de la universidad Bau, deciden embarcarse en esta aventura como proyecto final de master. Ellos tan sólo ponen los medios creando una comunidad y haciendo que el contenido sea público. Los propios participantes decidiréis el ganador a través de vuestros votos! 
+			<p>Tocamos de pies en el suelo, pero... ¡también queremos volar! Este proyecto crecerá a través de vuestra participación, vuestra complicidad y vuestra ilusión. Así que de momento disfrutemos libremente sin fronteras, colgad vuestras creaciones como grandes artistas que sois! Cuando seamos un buen montón de soñadores, nosotros pondremos los mecenas para que el premio y la recompensa sea una realidad.</p>
+			<ul>
+				<li><img src="img/foto1.png" style="width:150px;">Marc <br>Castells</li>
+				<li><img src="img/foto2.png" style="width:150px;">Alexandra<br>Tresaco</li>
+				<li><img src="img/foto3.png" style="width:150px;">Oscar<br>Torres</li>
+				<li><img src="img/foto4.png" style="width:150px;">Eloi<br>Urdangarin</li>
+			</ul>	
+			
+		</section>	
+
+
+	</article>
+
+	<footer>
+		<div class="contacto">
+			<h2><a name="contacto">Contacta con nosotros</a></h2>
+			<p>
+			+34 93 284 32 12<br>
+			INFO: tueresespacial@gmail.com<br>
+			ENVIAR VÍDEOS: yosoyespacial.com<br>
+			COPYRIGHT © 2015 TU ERES ESPACIAL<br>
+			Todos los derechos reservados<br>
+			</p>
+		</div>
+
+		<div class="newsletter">
+			<div>
+				<label><p>Estás ante una versión beta. Subscríbete a nuestra newsletter para recibir novedades y actualizaciones sobre nuestra plataforma.</p>
+				</label>
+				<input id="email" style="width:270px; height:40px;">
+				<button class="enviar">ENVIAR</button>
+			</div>
+		</div>
+	</footer>
+
+</body>
+
+</html>

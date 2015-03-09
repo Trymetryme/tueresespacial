@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 452.7 295" enable-background="new 0 0 452.7 295" xml:space="preserve">
+<rect fill="#FFFFFF" width="453" height="295"/>
+<rect y="0.1" fill="#F9627F" width="453" height="4.4"/>
+<path fill="#CFF9F9" stroke="#999999" stroke-miterlimit="10" d="M348.3,81.5H95.5c-9.6,0-17.4-7.8-17.4-17.4l0,0
+	c0-9.6,7.8-17.4,17.4-17.4h252.8c9.6,0,17.4,7.8,17.4,17.4l0,0C365.7,73.7,357.9,81.5,348.3,81.5z"/>
+<text transform="matrix(1 0 0 1 196.2212 69.1301)" fill="#999999" font-family="'Lato-Italic'" font-size="13.4756" letter-spacing="1">EMAIL...</text>
+<path fill="#CFF9F9" stroke="#999999" stroke-miterlimit="10" d="M348.3,133.3H95.5c-9.6,0-17.4-7.8-17.4-17.4l0,0
+	c0-9.6,7.8-17.4,17.4-17.4h252.8c9.6,0,17.4,7.8,17.4,17.4l0,0C365.7,125.5,357.9,133.3,348.3,133.3z"/>
+<path fill="#F9627F" d="M348.3,205.3H95.5c-9.6,0-17.4-7.8-17.4-17.4l0,0c0-9.6,7.8-17.4,17.4-17.4h252.8c9.6,0,17.4,7.8,17.4,17.4
+	l0,0C365.7,197.5,357.9,205.3,348.3,205.3z"/>
+<text transform="matrix(1 0 0 1 174.8185 120.9192)" fill="#999999" font-family="'Lato-Italic'" font-size="13.4756" letter-spacing="1">PASSSWORD...</text>
+<text transform="matrix(1 0 0 1 104.3185 237.4192)" fill="#999999" font-family="'Lato-Italic'" font-size="12">Mantenme registrado</text>
+<text transform="matrix(1 0 0 1 80.3185 262.4192)"><tspan x="0" y="0" fill="#999999" font-family="'Lato-Italic'" font-size="12">Aún no tienes cuenta? </tspan><tspan x="127.1" y="0" fill="#F9627F" font-family="'Lato-Italic'" font-size="12">Regístrate</tspan></text>
+<text transform="matrix(1 0 0 1 80.3185 151.7527)" fill="#F9627F" font-family="'Lato-Italic'" font-size="12">Has olvidado tu contraseña?</text>
+<text transform="matrix(1 0 0 1 183.8185 192.9192)" fill="#FFFFFF" font-family="'Lato-Regular'" font-size="13.4756" letter-spacing="1">ACCEDER</text>
+<circle fill="#E6E6E6" stroke="#808080" stroke-miterlimit="10" cx="87.8" cy="232.2" r="8.2"/>
+<line fill="none" stroke="#F9627F" stroke-miterlimit="10" x1="208" y1="266" x2="264.2" y2="266"/>
+<line fill="none" stroke="#F9627F" stroke-miterlimit="10" x1="81" y1="156" x2="238.7" y2="156"/>
+</svg>

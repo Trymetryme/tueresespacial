@@ -1,0 +1,223 @@
+body{
+	margin: 0;
+}
+
+li{
+	list-style-type: none;
+	float: left;
+	padding-right: 15px;
+	font-family: 'Lato', sans-serif;
+	font-weight: 300;
+}
+
+header{
+	background-color: rgba(8, 7, 23, .95);
+	color: #fff;
+	padding: 20px;
+	height: 65px;
+	margin: 0;
+	position: fixed;ç
+	top:0;
+	width: 100%;
+	z-index: 1;
+}
+
+nav, .redessociales{
+	float: left;
+}
+
+.clearfix:before,
+.clearfix:after {
+    content: " ";
+    display: table;
+}
+.clearfix:after {
+    clear: both;
+}
+.clearfix {
+    *zoom: 1;
+}
+
+.redessociales{
+	padding-right: 60px;
+}
+.boton_registro{
+	background-color: #F9627F;
+	color: #2B2B4C;
+	font-family: 'Lato', sans-serif;
+	font-weight: 400;
+	font-size: 14px;
+	text-transform: uppercase;
+	text-decoration: none;
+	border:0;
+	padding: 7px 20px;
+	letter-spacing: 2px;
+	border-radius: 30px;
+}
+nav ul{
+	padding-top: 5px;
+}
+header div{
+	float: right;
+}
+
+header a{
+	color: #fff;
+	text-decoration: none;
+}
+
+h1 {
+	font-family: 'Lato', sans-serif;
+	font-weight: 900;
+	font-size: 36px;
+	text-transform: uppercase;
+	margin: 0;
+	padding: 60px 20px 20px;
+	letter-spacing: 10px;
+}
+
+.logo{
+	padding: 0 20px;
+	 color:#ffffff
+}
+
+.main{
+	margin: 0 auto;
+	background-color: #101023;
+	text-align: center;
+	font-family: 'Lato', sans-serif;
+	color: #fff;
+	padding-top: 120px;
+	padding-bottom: 120px;
+
+}
+.videos h1{
+	padding-top: 90px;
+}
+.videos h2 {
+	text-transform: uppercase;
+	letter-spacing: 5px;
+	text-align: center;
+}
+.donacion{
+	height: 600px;
+}
+.subtitle2{
+	font-family: 'Lato', sans-serif;
+	font-weight: 300;
+	font-size: 20px;
+	line-height: 150%;
+	letter-spacing: 2px;
+	width:800px;
+	text-align:center;
+	margin: 0 auto;
+	padding-bottom: 60px;
+}
+.user {
+	width: 320px;
+	display:inline-block;
+	background-color: #383859;
+	margin: 90px 20px 0;
+	border-radius: 10px;
+
+}
+.user p{
+	width: 280px;
+	text-align: left;
+	font-family: 'Lato', sans-serif;
+	font-weight: 300;
+	font-size: 16px;
+	float: left;
+	margin: 5px 0;
+}
+.user h3{
+	float: left;
+	font-weight: 900;
+	margin-bottom: 0;
+}
+.votos{
+	float: right;
+	border-bottom: 1px solid red;
+	margin-bottom: 5px;
+}
+
+.datos{
+	padding: 0 20px;
+	text-align: center;
+}
+
+.pink{
+	color: #F9617F;
+}	
+
+
+.boton_rosa2{
+	background-color: #E84547;
+	color: #FFF;
+	font-family: 'Lato', sans-serif;
+	font-weight: 400;
+	font-size: 14px;
+	text-transform: uppercase;
+	text-decoration: none;
+	border:0;
+	padding: 15px 40px;
+	letter-spacing: 2px;
+	border-radius: 30px;
+	margin: 20px;
+}
+
+.main ul{
+	list-style-type: none;
+	text-align: center;
+}
+
+.main li{
+	display: inline-block;
+	background-color: #F9627F;
+	color: #2B2B4C;
+	text-align: center;
+	padding: 5px 10px;
+	margin-right: 10px;
+}
+
+footer{
+
+	background-color: #6BBFC1;
+	color: #fff;
+	height: 290px;
+	display: block;
+		font-family: 'Lato', sans-serif;
+	font-weight: 300;
+	font-size: 16px;
+	letter-spacing: 1px;
+	padding: 60px 60px 0;
+}
+
+
+.contacto{
+	letter-spacing: 1px;
+	line-height: 150%;
+	float: left;
+	background-color: #6BBFC1;
+}
+
+
+.newsletter{
+	text-align: right;
+	line-height: 150%;
+	float:right;
+	background-color: #6BBFC1;
+}
+
+.newsletter p{
+	padding-bottom: 20px;
+}
+.enviar{
+	color: #6BBFC1;
+	background-color: #fff;
+	text-transform: uppercase;
+	height: 42px;
+	padding: 0 15px;
+	border: 0;
+
+}

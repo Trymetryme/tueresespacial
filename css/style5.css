@@ -1,0 +1,460 @@
+body{
+	margin: 0;
+}
+
+li{
+	list-style-type: none;
+	float: left;
+	padding-right: 15px;
+	font-family: 'Lato', sans-serif;
+	font-weight: 300;
+}
+
+header{
+	background-color: rgba(8, 7, 23, .95);
+	color: #fff;
+	padding: 20px;
+	height: 65px;
+	margin: 0;
+	position: fixed;
+	width: 100%;
+	z-index: 1;
+}
+
+nav, .redessociales{
+	float: left;
+}
+.pink{
+	color: #F9617F;
+}
+
+.login{
+	position: absolute;
+		top: 105px;
+		right: 20px;
+}
+
+.clearfix:before,
+.clearfix:after {
+    content: " ";
+    display: table;
+}
+.clearfix:after {
+    clear: both;
+}
+.clearfix {
+    *zoom: 1;
+}
+
+.redessociales{
+	padding-right: 60px;
+}
+.boton_registro{
+	background-color: #F9627F;
+	color: #2B2B4C;
+	font-family: 'Lato', sans-serif;
+	font-weight: 400;
+	font-size: 14px;
+	text-transform: uppercase;
+	text-decoration: none;
+	border:0;
+	padding: 7px 20px;
+	letter-spacing: 2px;
+	border-radius: 30px;
+}
+.login{
+	position: absolute;
+}
+nav ul{
+	padding-top: 5px;
+}
+header div{
+	float: right;
+}
+
+header a{
+	color: #fff;
+	text-decoration: none;
+}
+
+.logo{
+	padding: 0 20px;
+	 color:#ffffff
+}
+.registro{
+	z-index: 100;
+	background-color: rgba(0, 0, 0, 0.8);
+	width: 100%;
+	height: 100%;
+}
+
+.home {
+
+	background-image: url("../img/home.jpg");
+	background-position: bottom;
+	background-repeat: no-repeat;
+	background-color: #080717;
+	margin: 0 auto;
+	text-align: center;
+	font-family: 'Lato', sans-serif;
+	color: #fff;
+	padding-top: 120px;
+	position: relative;
+
+}
+.fondo{
+	width: 380px;
+	position: absolute;
+		top: 130px;
+		left: 20px;
+}
+
+h1 {
+	font-family: 'Lato', sans-serif;
+	font-weight: 900;
+	font-size: 36px;
+	text-transform: uppercase;
+	margin: 0;
+	padding: 60px 20px 20px;
+	letter-spacing: 10px;
+}
+
+.home p{
+	font-weight: 300;
+	font-size: 20px;
+	line-height: 150%;
+	letter-spacing: 2px;
+}
+a {
+	text-decoration: none;
+}
+
+.boton_blanco{
+	background-color: #fff;
+	color: #2B2B4C;
+	font-family: 'Lato', sans-serif;
+	font-weight: 400;
+	font-size: 14px;
+	text-transform: uppercase;
+	text-decoration: none;
+	border:0;
+	padding: 15px 70px;
+	letter-spacing: 2px;
+	border-radius: 30px;
+	margin: 10px 10px 30px;
+}
+
+.boton_participar{
+	background-color: #F9627F;
+	color: #2B2B4C;
+	font-family: 'Lato', sans-serif;
+	font-weight: 400;
+	font-size: 14px;
+	text-transform: uppercase;
+	text-decoration: none;
+	border:0;
+	padding: 15px 70px;
+	letter-spacing: 2px;
+	border-radius: 30px;
+	margin: 20px 20px 60px;
+}
+
+.explicacion{
+	text-align: center;
+	background-color: #6FC4C6;
+	color: #fff;
+	padding-bottom: 30px;
+}
+
+h2{
+	font-size: 28px;
+	font-family: 'Lato', sans-serif;
+	font-weight: 900;
+	margin: 0;
+	letter-spacing: 2px;
+	padding: 50px 0 20px;
+	color: #101023;
+}
+
+.subtitle{
+	font-family: 'Lato', sans-serif;
+	font-weight: 300;
+	font-size: 20px;
+	line-height: 150%;
+	letter-spacing: 2px;
+	width:800px;
+	text-align:center;
+	margin: 0 auto;
+	padding-bottom: 30px;
+}
+
+.paso{
+	padding: 50px 0;
+	width: 900px;
+	margin:0 auto;
+}
+
+.paso p{
+	width: 500px;
+	font-family: 'Lato', sans-serif;
+	font-weight: 300;
+	font-size: 18px;
+	line-height: 150%;
+	letter-spacing: 2px;
+	color: #fff;
+}
+.right img{
+	float: left;
+	width: 300px;
+}
+
+.right div{
+	float: right;
+	text-align: left;
+}
+
+.left img{
+	float: right;
+	width: 300px;
+}
+
+.left div{
+	float: left;
+	text-align: right;
+}
+.paso h3{
+	color: #101023;
+	font-size: 22px;
+	font-weight:900;
+
+}
+
+.how {
+	font-family: 'Lato', sans-serif;
+	font-weight: 400;
+	font-size: 13px;
+	line-height: 150%;
+	letter-spacing: 2px;
+	text-align:center;
+	color: #2B2B4C;
+	padding-bottom: 60px;
+	margin: 0;
+}
+
+.videos{
+	background-color: #101023;
+	color: #fff;
+	text-align: center;
+	padding-bottom: 60px;
+}
+
+.videos h1{
+	padding-top: 90px;
+}
+.videos h2 {
+	text-transform: uppercase;
+	letter-spacing: 5px;
+	text-align: center;
+}
+.donacion{
+	height: 600px;
+}
+.subtitle2{
+	font-family: 'Lato', sans-serif;
+	font-weight: 300;
+	font-size: 20px;
+	line-height: 150%;
+	letter-spacing: 2px;
+	width:800px;
+	text-align:center;
+	margin: 0 auto;
+	padding-bottom: 60px;
+}
+.user {
+	width: 320px;
+	display:inline-block;
+	background-color: #383859;
+	margin: 90px 20px;
+	border-radius: 10px;
+
+}
+.user p{
+	width: 280px;
+	text-align: left;
+	font-family: 'Lato', sans-serif;
+	font-weight: 300;
+	font-size: 16px;
+	float: left;
+	margin: 5px 0;
+}
+.user h3{
+	float: left;
+	font-weight: 900;
+	margin-bottom: 0;
+}
+.votos{
+	float: right;
+	border-bottom: 1px solid red;
+	margin-bottom: 5px;
+}
+
+h3{
+	font-family: 'Lato', sans-serif;
+	font-weight: 700;
+	letter-spacing: 2px;
+	
+}
+
+.datos{
+	padding: 0 20px;
+	text-align: center;
+}	
+
+
+.boton_rosa2{
+	background-color: #E84547;
+	color: #FFF;
+	font-family: 'Lato', sans-serif;
+	font-weight: 400;
+	font-size: 14px;
+	text-transform: uppercase;
+	text-decoration: none;
+	border:0;
+	padding: 15px 40px;
+	letter-spacing: 2px;
+	border-radius: 30px;
+	margin: 20px;
+}
+
+.goteo{
+	background-color: #fff;
+	text-align: center;
+}
+
+.goteo h2{
+	padding: 80px 0;
+	font-weight: 900;
+}
+.numeros div{
+	width: 50%;
+	float: left;
+}
+.numeros{
+	color: #fff;
+	font-family: 'Lato', sans-serif;
+	font-weight: 300;
+	text-align: center;
+}
+.rosa{
+	background-color: #F9617F;
+	padding: 20px 0;
+}
+
+.azul{
+	background-color: #6ABFC0;
+	padding: 20px 0;
+}
+
+.redes{
+	text-align: center;
+	background-image: url(../img/cohete-04.svg);
+	background-position: center bottom;
+	background-repeat: no-repeat;
+	background-color: #101023;
+	color: #fff;
+}
+.redes h2{
+	color: #fff;
+	font-weight: 300;
+}
+
+.redes p{
+	font-family: 'Lato', sans-serif;
+	font-weight: 300;
+	font-size: 18px;
+	letter-spacing: 1px;
+	margin-bottom: 60px;
+}
+.boton_donar{
+	background-color: #F9627F;
+	color: #101023;
+	font-family: 'Lato', sans-serif;
+	font-weight: 900;
+	font-size: 18px;
+	text-transform: uppercase;
+	text-decoration: none;
+	border:0;
+	padding: 15px 80px;
+	letter-spacing: 2px;
+	border-radius: 30px;
+	margin: 20px;
+}
+.redes ul{
+	margin: 0 auto;
+	width: 300px;
+}
+
+.redes li{
+	margin-bottom: 280px;
+}
+
+.proyecto{
+	clear: both;
+	background-color: #fff;
+	color: #101023;
+	text-align: center;
+	padding: 20px;
+}
+.proyecto p{
+	width:800px;
+	margin:0 auto 20px;
+	text-align: left;
+	font-family: 'Lato', sans-serif;
+	font-weight: 300;
+	font-size: 18px;
+	line-height: 150%;
+	letter-spacing: 1px;
+
+}
+
+footer{
+	background-color: #6BBFC1;
+	color: #fff;
+	height: 290px;
+	display: block;
+		font-family: 'Lato', sans-serif;
+	font-weight: 300;
+	font-size: 16px;
+	letter-spacing: 1px;
+}
+
+
+.contacto{
+	letter-spacing: 1px;
+	line-height: 150%;
+	float: left;
+	background-color: #6BBFC1;
+	padding-left: 60px;
+}
+
+
+.newsletter{
+	text-align: right;
+	line-height: 150%;
+	float:right;
+	background-color: #6BBFC1;
+	padding: 60px;
+}
+
+.newsletter p{
+	padding-bottom: 20px;
+}
+.enviar{
+	color: #6BBFC1;
+	background-color: #fff;
+	text-transform: uppercase;
+	height: 42px;
+	padding: 0 15px;
+	border: 0;
+
+}
